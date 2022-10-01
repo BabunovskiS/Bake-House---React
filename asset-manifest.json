@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Bake-House---React/static/css/main.44523cd3.css",
+    "main.js": "/Bake-House---React/static/js/main.28f841db.js",
+    "static/js/787.55271fcc.chunk.js": "/Bake-House---React/static/js/787.55271fcc.chunk.js",
+    "static/media/jfif": "/Bake-House---React/static/media/ddcae7512c22d9dab1713cd2db386259.1efd916340257c12bebf.jfif",
+    "static/media/png": "/Bake-House---React/static/media/72f23b0c81b3602ac6897a6f7507626c.c1bf94162f0415a3c1db.png",
+    "static/media/choc-removebg-preview.png": "/Bake-House---React/static/media/choc-removebg-preview.95b577cc31c4cbf6de28.png",
+    "static/media/logo-footer.png": "/Bake-House---React/static/media/logo-footer.95b577cc31c4cbf6de28.png",
+    "index.html": "/Bake-House---React/index.html",
+    "main.44523cd3.css.map": "/Bake-House---React/static/css/main.44523cd3.css.map",
+    "main.28f841db.js.map": "/Bake-House---React/static/js/main.28f841db.js.map",
+    "787.55271fcc.chunk.js.map": "/Bake-House---React/static/js/787.55271fcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44523cd3.css",
+    "static/js/main.28f841db.js"
+  ]
+}
