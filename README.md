@@ -1,5 +1,6 @@
 # Click here to view the live version
-bake-house-ashy.vercel.app
+https://bake-house-ashy.vercel.app/
+
 
 # Getting Started with Create React App
 
